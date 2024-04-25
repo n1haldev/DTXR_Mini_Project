@@ -1,0 +1,8 @@
+Name: Sun
+Type: G-type main-sequence star
+Mass: 1.989 × 10^30 kg
+Radius: 696,340 km
+Surface Temperature: 5,505 °C
+Luminosity: 3.828 × 10^26 W
+Age: 4.6 billion years
+Composition: Mostly hydrogen (about 75%) and helium (about 24%)
